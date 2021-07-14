@@ -8,8 +8,8 @@
 <style>
 .toasted{
   position: fixed;
-  top: 50vh;
-  left: 50vw;
+  top: 50%;
+  left: 50%;
   font-size: 26px;
   transform: translate(-50%,-50%);
   padding: 5px;
