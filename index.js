@@ -10,7 +10,6 @@ obj.install = function (Vue) {
       }
     },
   })
-
   let element = toast.$mount().$el
   document.body.appendChild(element)
 
@@ -24,15 +23,5 @@ obj.install = function (Vue) {
       }, duration);
     }
   }
-
-
-
-
 }
-
-
-
-
-
-
 export default obj
