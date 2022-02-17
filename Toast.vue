@@ -1,4 +1,4 @@
-@<template>
+<template>
   <div class="toasted" v-show="isShow">
     {{message}}
   </div>
